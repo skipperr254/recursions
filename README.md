@@ -35,6 +35,7 @@ console.log(10) // returns 55
 ```
 2. Adding Mathematically
 
+Python solution:
 ``` python
 # Python
 def sum(n):
@@ -43,6 +44,7 @@ def sum(n):
 print(sum(10))
 ```
 
+JavaScritp solution:
 ``` js
 // JS
 function sum(n) {
