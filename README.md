@@ -6,7 +6,7 @@ Add all non-negative integers upto n.
 ### solutions:
 1. Using loops
 
-Here is how this can be solved with the use of a for loop.
+Here is how this can be solved with the use of a for loop. This involves using a for loop to loop over all integers upto n and add them one by one.
 
 ``` python
 # Python
@@ -34,6 +34,9 @@ function sum(n) {
 console.log(10) // returns 55
 ```
 2. Adding Mathematically
+This involves using the mathematical formula:
+`Sn = n(n+1)/2`  
+where Sn is the sum of all of the first n integers.
 
 Python solution:
 ``` python
